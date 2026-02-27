@@ -233,7 +233,7 @@ Models to Test:
 - Control: CodeLlama 70B fine-tuned on Dafny corpus (does training help?)
 
 Dataset: The 40 tasks (B1-B20) + new edge cases focusing on:
-- Ghost variable scoping=
+- Ghost variable scoping
 - ∀∃ patterns 
 
 Evaluation Protocol:
